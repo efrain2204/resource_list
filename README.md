@@ -5,3 +5,15 @@
 ```bash
 https://material.io/
 ```
+
+## Librería que remplaza a PHPExcel(dado de baja)
+
+```bash
+https://phpspreadsheet.readthedocs.io/en/latest/
+```
+
+## Librería para facturación electronica para Perú
+
+```bash
+https://giansalex.github.io/greenter/
+```
